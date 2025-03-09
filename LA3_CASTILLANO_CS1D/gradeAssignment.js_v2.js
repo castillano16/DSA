@@ -1,4 +1,3 @@
-// gradeAssignment_v2.js
 let score = parseInt(prompt("Enter your score:"));
 
 let equivalentGrade = score >= 97 ? "1.00 Excellent" :

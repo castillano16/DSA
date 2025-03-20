@@ -30,7 +30,7 @@ let student3 = {
 function displayStudentInfo(student) {
     console.log(`[${student.fullName.toUpperCase()}] was born [${student.birthDate}] at [${student.birthPlace.toUpperCase()}], and currently living at [${student.address.toUpperCase()}].`);
     console.log(`[${student.fullName.toLowerCase()}] is taking up [${student.course.toLowerCase()}] and dreams to be [${student.dreamJob}] after graduation.`);
-    console.log("\n");
+    
 }
 
 // Displaying information for all students
